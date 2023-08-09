@@ -1,0 +1,2 @@
+# multinomialNB_text_classification
+朴素贝叶斯文本分类实战：boss直聘职位数据分类
