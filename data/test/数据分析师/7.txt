@@ -1,0 +1,37 @@
+DESCRIPTION
+Job summary
+Amazon provides enterprises the opportunity to sell their goods on the Amazon platform Worldwide, more than a million of sellers use this Marketplace and thereby contribute to the success of Amazon.
+Amazon is growing its Amazon Global Selling (AGS) business in China aggressively. In this context, Amazon is seeking a creative, dynamic and result orientate individual contributor to join us.
+We are looking for a highly motivated individual with experience in Contact Center resource planning, who possesses a clear understanding of Contact Center dynamics and good communication skills. We are looking for someone who can demonstrate an advanced level of analytical skills.
+Experience of working with a workforce management tool is essential, whilst experience of working with database and reporting tools is also required.
+An advanced level knowledge of Microsoft Excel is essential, whilst a good working knowledge of Microsoft Access is also preferable.
+Responsibilities will include
+， Creat and develop new reports using efficient tools to meet business needs meanwhile drive process efficiency and optimization. Maintain existing reports to support capacity planning process and data analysis requirement.
+， Planning and monitoring the operational performance to ensure that Amazon meet their objectives for managing customer contact
+， Maintaining standardized Capacity Plans, including tracking the productivity and performance figures for all sub-ous within China seller support network
+， Be proactive in highlighting opportunities to enhance operational efficiency
+， Effectively communicate with key decision-makers on resource planning issues
+， Understand and promote principles of Resource Planning within Amazon
+The role requires the right individual to
+， Identify right tools to develop reports and provide efficient reports development support to capacity planning process.
+， Provide added value contact center information, to enable operational managers to make effective decisions
+， Communicate effectively with Senior Management
+， Collating the data that is required to produce cost effective resource models
+， Identify potential performance issues/opportunities
+， Be innovative in making cost effective recommendations
+， Improve the strong link between Resource Planning and Operational Management
+， Understand the Amazon Seller Support contact handling strategy
+， Provide a high degree of flexibility both in terms of personal outlook/attitude and workload/tasks
+， Support cross-section processes and procedures
+BASIC QUALIFICATIONS
+Required skills:
+， At least 5 years advanced development experience in SQL server.
+， Bachelor¨s degree preferred and/or recognized equivalent work experience.
+， 5+ years' experience of demand and capacity planning in multi-channel and multi-site contact centers.
+， Fluent English communication.
+， Middle or above MS Excel skill.
+， Ability to appropriately gather, integrate and interpret data then utilize a range of analytical tools to constructively challenge and test assumptions in order to identify improvements.
+， Proven ability in building models and manipulating data to drive business decisions and improvements
+， Experience in a fast paced, high-pressure office environment.
+PREFERRED QUALIFICATIONS
+， Advanced development knowledge and skills in Python (matplotlib, pandas, numpy), R or other main analyzing tools.

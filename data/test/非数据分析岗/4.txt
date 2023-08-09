@@ -1,0 +1,32 @@
+DESCRIPTION
+Job summary
+Company
+Amazon.com operates in a virtual, global e-commerce environment without boundaries, and operates a diverse set of businesses in fourteen countries, including Retail, third party marketplaces, e-commerce platforms, web services for developers.
+As a member of China Compliance Operation team, we are responsible for the classification of ASINs in our catalog that can be safely stored in the Fulfilment Center¡¯s and shipped to customer while safely meeting all local laws and regulations. We also prevent the sale of items that either Amazon chooses not to sell or are prohibited by law or regulations. In the global trade and direct import areas we are accountable for the import tariff classification and ensure imported products have had proper testing for safety and operability.
+The team that you will work is responsible to ensure that the imported products have been tested in certified laboratories and that you will comply with the legal requirements of the importing country, to take appropriate actions in order to protect customers from recalled or unsafe products and also, to classify products based on their potential hazardous risk and laws.
+Roles and Responsibility
+l Eliminate or reduce manual steps by developing automation tools for the operational programs
+l Identify, build, develop automation tools and provide maintenance to existent tools in order to eliminate costs, improve turnaround time and overall quality
+l Facilitate the exchange of ideas, tools, tips & tricks among the different operational teams.
+l Ensure that good ideas are consistently implemented across all tasks in order to improve efficiency and standardize process workflows
+l Understand the business and identify potential areas of improvement from a technical perspective and propose changes to standard tools accordingly
+Key Performance Areas
+l Understand the vision, direction and culture of all compliance operations at C-Ops
+l Understand requirements from the management and product compliance teams and map them with automation tools
+l Execute high priority (i.e. cross functional, high impact) projects to improve operations performance with the help of Operations Analytics managers
+l Increasingly partner with stakeholders like Product Compliance and or Retail and be a part of the solution process, to potentially minimize revenue impacts owing to compliance actions
+1 Key Competencies: A-Z process ownership; deals well with ambiguity, functions well and is able to clearly define processes in loosely structured situations; comfortable with following up on actions from others and closing the loop.
+Basic Qualifications 2+ years professional experience in Project Management;
+Preferred qualifications
+Experience in Domain knowledge, familiar with EU/US/CA/JP product safety regulation is a plus
+Experience with modern programming language Python and open-source web framework Django;
+Experience in defining, developing and maintaining REST based interfaces;
+Experience with JavaScript and other web technology (e.g. NodeJS, WebPack).
+BASIC QUALIFICATIONS
+Basic Qualifications 2+ years professional experience in Project Management;
+Preferred qualifications
+Experience in Domain knowledge, familiar with EU/US/CA/JP product safety regulation is a plus
+Experience with modern programming language Python and open-source web framework Django;
+Experience in defining, developing and maintaining REST based interfaces;
+Experience with JavaScript and other web technology (e.g. NodeJS, WebPack).
+PREFERRED QUALIFICATIONSExperience with one of the open-source front-end framework React, Vue is a plus.
